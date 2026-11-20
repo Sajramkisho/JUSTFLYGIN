@@ -1,0 +1,2 @@
+# JUSTFLYGIN
+JUSTFLYGIN - Meme Coin
