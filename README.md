@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  **Ethereum Mainnet · ERC-20 · Fixed Supply**
+  Ethereum Mainnet · ERC-20 · Fixed Supply
 </p>
 
 ---
